@@ -1,5 +1,11 @@
+import Accordion from './components/Accordion'
+
 function App() {
-	return <h1>Accordion Starter file</h1>
+	return (
+		<div>
+			<Accordion />
+		</div>
+	)
 }
 
 export default App
